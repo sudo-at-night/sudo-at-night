@@ -1,6 +1,6 @@
 ### :v: Good Day
 
-I like to code and I usually do in TypeScript or JavaScript.
+I like to code and I usually do it in TypeScript or JavaScript.
 
 ### :hammer: What I'm up to
 
