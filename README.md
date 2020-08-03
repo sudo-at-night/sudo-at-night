@@ -1,15 +1,6 @@
 ### Good Day
 
-### Public pins
-
-<div>
-  <a href="https://github.com/sudo-at-night/me-next">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sudo-at-night&repo=me-next&theme=onedark" />
-  </a>
-  <a href="https://github.com/sudo-at-night/case-express-graphql-typescript">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sudo-at-night&repo=case-express-graphql-typescript&theme=onedark" />
-  </a>
-</div>
+---
 
 ### Stats
 
